@@ -1,0 +1,24 @@
+# Build CMake / compilation
+build/
+generated/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.o
+*.obj
+*.exe
+*.tlog
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Fichiers de debug
+rectBase.txt
+
+# Système
+.DS_Store
+Thumbs.db
