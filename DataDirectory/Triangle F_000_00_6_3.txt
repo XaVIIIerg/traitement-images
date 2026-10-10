@@ -1,0 +1,8 @@
+# free comment (group name, year…) (other comment lines allowed)
+labelTriangle F<labelName> 
+form <00000> 
+scripter <000> 
+page <00> 
+row <6> 
+column <3> 
+size <empty> 

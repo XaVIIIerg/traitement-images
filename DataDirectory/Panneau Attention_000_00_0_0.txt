@@ -1,0 +1,8 @@
+# free comment (group name, year…) (other comment lines allowed)
+labelPanneau Attention<labelName> 
+form <00000> 
+scripter <000> 
+page <00> 
+row <0> 
+column <0> 
+size <empty> 
